@@ -1,0 +1,25 @@
+{
+  "name": "jan25-t2w05-review",
+  "version": "1.0.0",
+  "description": "Review of NodeJS and ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenaborges256/jan25-t2w05-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lorenaborges256/jan25-t2w05-review/issues"
+  },
+  "homepage": "https://github.com/lorenaborges256/jan25-t2w05-review#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1"
+  }
+}
